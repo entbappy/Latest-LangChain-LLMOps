@@ -9,3 +9,4 @@ pypdf==4.3.1
 wikipedia==1.4.0
 langchain-chroma==0.1.2
 langserve==0.2.2
+langgraph==0.1.19
